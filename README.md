@@ -2,10 +2,10 @@
 
 # Websites
 - [MDN Web Docs](https://developer.mozilla.org)
-- [Dev docs](Devdocs.io)
-- [Bundlephobia](bundlephobia.com)
-- [Graph npm dependencies | npm grah](npmgraph.js.org)
-- [Check Web Dependencies](deps.dev)
+- [Dev docs](https://Devdocs.io)
+- [Bundlephobia](https://bundlephobia.com)
+- [Graph npm dependencies | npm grah](https://npmgraph.js.org)
+- [Check Web Dependencies](https://deps.dev)
 
 # CLI
 LighthouseCI
