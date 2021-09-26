@@ -6,6 +6,7 @@
 - [Bundlephobia](https://bundlephobia.com)
 - [Graph npm dependencies | npm grah](https://npmgraph.js.org)
 - [Check Web Dependencies](https://deps.dev)
+- [Git localize](https://gitlocalize.com/)
 
 # CLI
 LighthouseCI
